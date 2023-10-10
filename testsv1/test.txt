@@ -1,0 +1,19 @@
+func main void
+ var int a
+ assign a 5
+ if False
+ else
+  if True
+    var int b
+    if True
+      var int b
+    endif
+  endif
+  
+ endif
+ 
+endfunc
+
+func foo int
+  return 1
+endfunc
